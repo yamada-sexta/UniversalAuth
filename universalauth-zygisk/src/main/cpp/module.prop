@@ -1,0 +1,6 @@
+id=universalauth_zygisk
+name=Universal Auth (Zygisk)
+version=v1.0.0
+versionCode=1
+author=UniversalAuth
+description=Zygisk module for Universal Auth functionality
